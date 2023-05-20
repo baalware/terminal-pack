@@ -15,7 +15,7 @@
 
 
 ```
-                                                       sudo apt install tilix
+                                     sudo apt install tilix
 ```
 <p align="center">
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/7906f9ea-2471-4f23-bca7-1d820a5923f2">
@@ -25,7 +25,7 @@
 </h2>
 
 ```
-                                                       sudo apt install konsole
+                                               sudo apt install konsole
 ```
 
 <p align="center">
@@ -47,6 +47,19 @@
 </p>
 <h2 align="center">
   4. Deepin
+</h2>
+
+```
+                                                  sudo apt install deepin-terminal
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/b5bd302e-bd1a-4d40-818e-efe95c6f25f6">
+</p>
+
+</p>
+<h2 align="center">
+  5. Deepin
 </h2>
 
 ```
