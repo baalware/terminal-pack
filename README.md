@@ -25,7 +25,7 @@
 </h2>
 
 ```
-sudo apt install konsole
+                                          sudo apt install konsole
 ```
 
 <p align="center">
@@ -37,7 +37,7 @@ sudo apt install konsole
 </h2>
 
 ```
-sudo apt install cool-retro-term
+                                          sudo apt install cool-retro-term
 ```
 
 <p align="center">
@@ -50,7 +50,7 @@ sudo apt install cool-retro-term
 </h2>
 
 ```
-sudo apt install deepin-terminal
+                                          sudo apt install deepin-terminal
 ```
 
 <p align="center">
@@ -83,6 +83,28 @@ sudo apt install deepin-terminal
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/0a54f238-c849-4b4f-9dad-e4ac1df753e9">
 </p>
 
+<h2 align="center">
+  7. Sakura
+</h2>
 
+```
+                                          sudo apt install sakura
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/1fd658da-12ca-442c-b01e-6314f12556a0">
+</p>
+
+<h2 align="center">
+  8. Xfce4
+</h2>
+
+```
+                                          sudo apt install xfce4-terminal
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/997f1e68-a85d-47bd-be50-6d263546cd6a">
+</p>
 
 
