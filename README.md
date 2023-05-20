@@ -15,7 +15,7 @@
 
 
 ```
-                                     sudo apt install tilix
+                                        sudo apt install tilix
 ```
 <p align="center">
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/7906f9ea-2471-4f23-bca7-1d820a5923f2">
