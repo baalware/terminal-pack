@@ -25,7 +25,7 @@
 </h2>
 
 ```
-                                          sudo apt install konsole
+sudo apt install konsole
 ```
 
 <p align="center">
@@ -37,7 +37,7 @@
 </h2>
 
 ```
-                                          sudo apt install cool-retro-term
+sudo apt install cool-retro-term
 ```
 
 <p align="center">
@@ -50,7 +50,7 @@
 </h2>
 
 ```
-                                          sudo apt install deepin-terminal
+sudo apt install deepin-terminal
 ```
 
 <p align="center">
