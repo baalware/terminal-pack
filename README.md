@@ -143,3 +143,16 @@
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/c9ff1178-5490-4d96-98fa-d5a04141ffe6">
 </p>
 
+<h2 align="center">
+  12. Guake
+</h2>
+
+```
+                                          sudo apt install guake
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/722e7aad-dac2-4e52-91fa-79c25e5be4ab">
+</p>
+
+
