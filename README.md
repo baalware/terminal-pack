@@ -59,16 +59,17 @@
 
 </p>
 <h2 align="center">
-  5. Deepin
+  5. Terminology
 </h2>
 
 ```
-                                          sudo apt install deepin-terminal
+                                          sudo apt install terminology
 ```
 
 <p align="center">
-  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/b5bd302e-bd1a-4d40-818e-efe95c6f25f6">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/f64af2ff-8638-45a1-8410-efd4c83f5c33">
 </p>
+
 
 
 
