@@ -107,4 +107,28 @@
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/997f1e68-a85d-47bd-be50-6d263546cd6a">
 </p>
 
+<h2 align="center">
+  9. Alacritty
+</h2>
+
+```
+                                          sudo apt install alacritty
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/11b97229-9114-4d1c-8aae-ccc839cd8d1d">
+</p>
+
+<h2 align="center">
+  10. Terminator
+</h2>
+
+```
+                                          sudo apt install terminator
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/c88a57bf-3684-4457-a8c5-b88428f7feef">
+</p>
+
 
