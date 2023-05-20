@@ -70,6 +70,18 @@
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/f64af2ff-8638-45a1-8410-efd4c83f5c33">
 </p>
 
+</p>
+<h2 align="center">
+  6. Mate
+</h2>
+
+```
+                                          sudo apt install mate-terminal
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/0a54f238-c849-4b4f-9dad-e4ac1df753e9">
+</p>
 
 
 
