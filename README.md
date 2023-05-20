@@ -131,4 +131,15 @@
   <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/c88a57bf-3684-4457-a8c5-b88428f7feef">
 </p>
 
+<h2 align="center">
+  11. Yakuake
+</h2>
+
+```
+                                          sudo apt install yakuake
+```
+
+<p align="center">
+  <img height="530em" src="https://github.com/baalware/terminal-pack/assets/84687049/c9ff1178-5490-4d96-98fa-d5a04141ffe6">
+</p>
 
